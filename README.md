@@ -35,10 +35,11 @@ and which products should be prioritized or discontinued?
 └── README.md
 
 ## Dashboard Preview
-[screenshot here]
+<img width="1961" height="1101" alt="image" src="https://github.com/user-attachments/assets/42cd4aad-2677-41f2-9fdf-0fcb9e4e54b5" />
+
 
 ## Author
-[Nama kamu] · [LinkedIn] · [GitHub]
+Muhammad Irfan Karim
 ```
 
 ---
