@@ -28,27 +28,24 @@ and which products should be prioritized or discontinued?
 - Increase investment in Office Supplies segment
 
 ## Project Structure
-├── 01_eda.ipynb              # Data loading, cleaning, EDA
-├── 02_sql_analysis.py        # DuckDB SQL queries
-├── outputs/                  # CSV exports for Power BI
-├── dashboard.pbix            # Power BI dashboard file
-└── README.md
+- 01_eda.ipynb              # Data loading, cleaning, EDA
+- 02_sql_analysis.py        # DuckDB SQL queries
+- outputs/                  # CSV exports for Power BI
+- dashboard.pbix            # Power BI dashboard file
+- README.md
 
 ## Dashboard Preview
 <img width="1961" height="1101" alt="image" src="https://github.com/user-attachments/assets/42cd4aad-2677-41f2-9fdf-0fcb9e4e54b5" />
 
 
 ## Author
-Muhammad Irfan Karim
+Muhammad Irfan Karim - www.linkedin.com/in/muhammadirfankarim
 ```
 
 ---
-
-## Phase 6 selesai ✅ — Project complete!
 ```
 ✅ Phase 1 — Project brief
 ✅ Phase 2 — EDA & data quality
 ✅ Phase 3 — SQL + Python analysis  
 ✅ Phase 4 — Power BI dashboard
 ✅ Phase 5 — AI insight validation
-<!-- ✅ Phase 6 — Project story & deliverables -->
